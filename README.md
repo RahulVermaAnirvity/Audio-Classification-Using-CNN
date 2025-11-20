@@ -1,4 +1,4 @@
-# Audio-CNN-CLASSIFICATION
+# Audio-CNN-CLASSIFICATION(access here: https://audio-classification-using-cnn-4exp.vercel.app/)
 
 Audio-CNN is an end-to-end demo that trains a residual convolutional neural network on the ESC-50 environmental sound dataset, exposes the model behind a Modal-powered FastAPI endpoint, and visualizes intermediate feature maps, spectrograms, and predictions inside a modern Next.js UI.
 
